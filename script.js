@@ -1,4 +1,4 @@
-const message = `HI BABYYY I KNOW YOU'RE NOT OKAYY.\n SO… I just want you to know, im so proud of u.\n\nI hope you know that i'm
+const message = `HI BABYY I KNOW YOU'RE NOT OKAY.\n SO… I just want you to know, im so proud of u.\n\nI hope you know that i'm
 always here. you will always have me, baby. please don't give up hm? ayos lang mapagod.\n\nWife, i wont get tired of being by yourside lagi, with u i feel so complete. ily infinity`;
 
 function showLetter() {
@@ -21,6 +21,7 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
 
 
 
